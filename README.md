@@ -12,8 +12,7 @@ It is designed for beginners who want to learn how to:
 - Work with folders
   
 ## Internship Details
-- Name : Simranjit Kaur
-- Intern ID : CITS3897
+- Name : Taniya
 - Organistation : CODTECH
 - 
 ## Features
